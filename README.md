@@ -1,2 +1,2 @@
-# CTS2021
+# CTS 2021
 Course and Lab examples for Software Quality and Testing 2021
