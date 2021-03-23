@@ -1,0 +1,8 @@
+Tue Mar 23 21:59:58 EET 2021 GUI created
+Tue Mar 23 21:59:58 EET 2021 Command Line created
+Tue Mar 23 22:00:12 EET 2021 Command Line created
+Tue Mar 23 22:00:12 EET 2021 GUI created
+Tue Mar 23 22:00:39 EET 2021 Command Line created
+Tue Mar 23 22:00:39 EET 2021 Message from NewMain
+Tue Mar 23 22:00:39 EET 2021 Another message from NewMain
+Tue Mar 23 22:00:43 EET 2021 GUI created
