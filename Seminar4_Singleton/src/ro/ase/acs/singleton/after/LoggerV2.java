@@ -9,8 +9,8 @@ import java.util.Date;
 public enum LoggerV2 {
     INSTANCE;
 
-    public void log(String message){
-        try {
+    public synchronized void log(String message){
+    	try {
             FileOutputStream fileOutputStream = new FileOutputStream("log.txt",true);
             OutputStreamWriter outputStreamWriter = new OutputStreamWriter(fileOutputStream);
             BufferedWriter bufferedWriter = new BufferedWriter(outputStreamWriter);

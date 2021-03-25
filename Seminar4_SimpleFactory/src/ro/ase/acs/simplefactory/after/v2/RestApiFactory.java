@@ -1,7 +1,7 @@
 package ro.ase.acs.simplefactory.after.v2;
 
 public class RestApiFactory {
-   public static RestApi createConnection(ServerType serverType){
+   public RestApi createConnection(ServerType serverType){
         if(serverType == ServerType.DEVELOPMENT){
             return new RestApiDevelopment();
         } else if(serverType == ServerType.RELEASE){

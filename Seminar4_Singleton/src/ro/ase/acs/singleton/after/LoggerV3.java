@@ -12,6 +12,9 @@ public class LoggerV3 {
     static {
         instance = new LoggerV3();
     }
+    
+    private LoggerV3() {
+    }
 
     public synchronized void log(String message){
         try {
